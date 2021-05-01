@@ -1,4 +1,4 @@
-# Hi there, I'm diky1111 - Just Call me [Diky][instagram] 👋
+# Hi there, I'm dikynugraha1111 - Just Call me [Diky][instagram] 👋
 
 ### I'm a Developer!!
 
@@ -49,10 +49,16 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+   <summary>:zap: GitHub Stats</summary>
+  
+   [![Diky Nugraha Stats](https://github-readme-stats.vercel.app/api?username=dikynugraha1111&show_icons=true&count_private=true&hide_border=true&theme=algolia)](https://github.com/dikynugraha1111/)
+  
+</details>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
+<details>
+   <summary>:zap: GitHub Most Used Language</summary>
+   
+   [![Diky Nugraha Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=dikynugraha1111&langs_count=8&hide_border=true&theme=algolia)](https://github.com/dikynugraha1111)
 </details>
 
 [website]: https://codeSTACKr.com
